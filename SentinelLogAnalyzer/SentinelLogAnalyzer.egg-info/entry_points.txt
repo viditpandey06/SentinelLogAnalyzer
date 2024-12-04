@@ -1,2 +1,0 @@
-[console_scripts]
-log-analysis = SentinelLogAnalyzer.log_analysis:main
