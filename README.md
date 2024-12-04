@@ -1,2 +1,0 @@
-# SentinelLogAnalyzer
- To be aadded
